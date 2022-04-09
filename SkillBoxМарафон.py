@@ -1,0 +1,2 @@
+command = "Привет"
+print (command)
